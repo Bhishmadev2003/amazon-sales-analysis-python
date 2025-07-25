@@ -1,4 +1,4 @@
-# 📦 Amazon Sales Data Analysis (Pandas Only)
+# 📦 amazon-sales-analysis-python
 
 A Python project using **Pandas** to perform data cleaning, exploration, and basic analysis on Amazon sales data. This project focuses on extracting insights using only tabular operations—no visualizations.
 
