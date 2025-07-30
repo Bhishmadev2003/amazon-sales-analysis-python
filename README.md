@@ -21,18 +21,6 @@ A Python project using **Pandas** to perform data cleaning, exploration, and bas
 
 ---
 
-## 📁 Project Structure
-
-```
-Amazon-Sales-Python-Project/
-│
-├── amazon_sales_data.csv
-├── amazon_sales_analysis.py
-└── README.md
-```
-
----
-
 ## 📌 Key Analysis Performed
 
 - Top 10 products by total sales  
